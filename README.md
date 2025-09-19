@@ -1,4 +1,6 @@
-# 👋 Hola, soy Pedro Millán
+# 🖖🏼 Saludos!
+
+# ¿En qué ando? 🧑🏽‍💻
 
 💻 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
 🐍 Certificado **PCEP** y preparando **PCAP (Python Associate)**  
@@ -9,13 +11,13 @@
 
 ## 🚀 Lo que encontrarás aquí
 - 📂 Proyectos de **Java** aplicando Programación Orientada a Objetos  
-- 🐍 Scripts y prácticas de **Python** (archivos, módulos, datetime, POO, etc.)  
+- 🐍 Scripts y proyectos de **Python** (archivos, módulos, datetime, POO, etc.)  
 - 🌐 Ejercicios y proyectos web del ciclo DAW  
 - 🎯 Retos de programación y ejemplos para certificaciones
 
 ---
 
-## 📫 Cómo contactarme
+## 📫 Info & contacto:
 - 💼 [[LinkedIn](https://www.linkedin.com/in/...)](https://www.linkedin.com/in/pedro-pablo-millán-mompó-499a36377/)  
 - ✉️ millanpedrop@gmail.com  
 
