@@ -4,15 +4,15 @@
 
 💻 Estudiante de **Desarrollo de Aplicaciones Web (DAW)**  
 🐍 Certificado **PCEP** y preparando **PCAP (Python Associate)**  
-☕ Experiencia con **Java** (POO, arrays, colecciones)  
-🌐 Creando proyectos web con **HTML, CSS y JavaScript**
+☕ Creando con **Java** (POO, arrays, colecciones)  
+🌐 Desarrollando proyectos web con **HTML, CSS y JavaScript**
 
 ---
 
 ## 🚀 Lo que encontrarás aquí
 - 📂 Proyectos de **Java** aplicando Programación Orientada a Objetos  
 - 🐍 Scripts y proyectos de **Python** (archivos, módulos, datetime, POO, etc.)  
-- 🌐 Ejercicios y proyectos web del ciclo DAW  
+- 🌐 Ejercicios y proyectos web del ciclo superior en DAW  
 - 🎯 Retos de programación y ejemplos para certificaciones
 
 ---
